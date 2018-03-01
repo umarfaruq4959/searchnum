@@ -10,7 +10,7 @@ void main()
     if(arr[i]==n)
     {
       c++;
-      printf("%d",c);
+      printf("%d",i);
       break;
     } 
   }
